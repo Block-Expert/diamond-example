@@ -14,7 +14,7 @@ I've put all hardhat folders in ./hardhat/ to reduce the noise on the root.
 ./scripts/ contains my deployment logic based on network with their configs.
 
 ### Commands script
-- test: Run forge tests
+- test: Run forge tests.
 - deploy-testnet: use hardhat rinkeby-testnet configs and execute the script.
 - deploy-local: use hardhat localhost configs and execute the scripts.
 - deploy-mainnet: use hardhat mainnet configs and execute the scripts.
